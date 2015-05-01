@@ -1,0 +1,47 @@
+[
+    {
+        "active": {
+            "main": "index"
+        },
+        "file_de": "index.html",
+        "file_en": "index_en.html",
+        "id": "index",
+        "nav": {
+            "main": {
+                "de": "Start",
+                "en": "Home"
+            }
+        },
+        "title_de": "Startseite",
+        "title_en": "Homepage"
+    },
+    {
+        "active": {
+            "main": "about"
+        },
+        "file_de": "about_de.html",
+        "file_en": "about_en.html",
+        "id": "about",
+        "load": [
+            "about.blockquote"
+        ],
+        "nav": {
+            "main": {
+                "de": "Details",
+                "en": "Details"
+            }
+        },
+        "title_de": "Einzelheiten",
+        "title_en": "Details"
+    },
+    {
+        "active": {
+            "main": "impressum"
+        },
+        "file_de": "impressum.html",
+        "file_en": "imprint.html",
+        "id": "impressum",
+        "title_de": "Impressum",
+        "title_en": "Imprint"
+    }
+]
